@@ -26,7 +26,9 @@ energy efficiency values based on building parameters.
    http://127.0.0.1:5000/
 
 ## 📸 Screenshots
-(Add screenshots here)
+home.png
+prediction.png
+
 
 ## 📌 Future Improvements
 - Deploy on cloud
