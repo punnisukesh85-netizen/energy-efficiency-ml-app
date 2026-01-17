@@ -19,16 +19,17 @@ energy efficiency values based on building parameters.
 
 1. Clone the repository
 2. Install requirements:
-   pip install -r requirements.txt
+   pip install - requirements.txt
 3. Run the app:
    python app.py
 4. Open in browser:
    http://127.0.0.1:5000/
 
 ## 📸 Screenshots
-home.png
-prediction.png
-
+### 🔹 Home Page
+![Home](screenshots/home.png)
+### 🔹 Prediction Result
+![Prediction](screenshots/prediction.png)
 
 ## 📌 Future Improvements
 - Deploy on cloud
